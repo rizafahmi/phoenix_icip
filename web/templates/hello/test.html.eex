@@ -1,0 +1,2 @@
+I cam from assigns: <%= @message %>
+This is the message: <%= message %>
